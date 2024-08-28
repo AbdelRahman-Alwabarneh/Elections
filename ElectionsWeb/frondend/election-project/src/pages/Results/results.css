@@ -1,0 +1,9 @@
+/* results.css */
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+}
